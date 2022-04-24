@@ -43,7 +43,7 @@ Or
 	python3 Application-[linux or IOs or Windows].py
 
 On unix systems, you also may give execution privileges to Application.py,
-en just type
+then just type
 
         Application.py
 
